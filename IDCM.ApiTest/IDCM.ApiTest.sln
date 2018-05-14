@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IDCM.ApiTest", "IDCM.ApiTest\IDCM.ApiTest.csproj", "{89D89821-A53F-4F59-8B7A-CF5296918334}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IDCM.WebsocketConsle", "IDCM.WebsocketConsle\IDCM.WebsocketConsle.csproj", "{905D19FD-0FD3-496F-B2F7-53DDD62F05F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89D89821-A53F-4F59-8B7A-CF5296918334}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89D89821-A53F-4F59-8B7A-CF5296918334}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89D89821-A53F-4F59-8B7A-CF5296918334}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89D89821-A53F-4F59-8B7A-CF5296918334}.Release|Any CPU.Build.0 = Release|Any CPU
+		{905D19FD-0FD3-496F-B2F7-53DDD62F05F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{905D19FD-0FD3-496F-B2F7-53DDD62F05F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{905D19FD-0FD3-496F-B2F7-53DDD62F05F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{905D19FD-0FD3-496F-B2F7-53DDD62F05F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15875597-6640-405B-BA01-B3733C4793F4}
+	EndGlobalSection
+EndGlobal

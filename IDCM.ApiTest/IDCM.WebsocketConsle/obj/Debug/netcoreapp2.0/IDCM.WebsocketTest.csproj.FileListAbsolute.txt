@@ -1,0 +1,10 @@
+D:\IDCM\backend\idcm-backend-3.0.2\IDCM.ApiTest\IDCM.WebsocketConsle\bin\Debug\netcoreapp2.0\IDCM.WebsocketTest.deps.json
+D:\IDCM\backend\idcm-backend-3.0.2\IDCM.ApiTest\IDCM.WebsocketConsle\bin\Debug\netcoreapp2.0\IDCM.WebsocketTest.runtimeconfig.json
+D:\IDCM\backend\idcm-backend-3.0.2\IDCM.ApiTest\IDCM.WebsocketConsle\bin\Debug\netcoreapp2.0\IDCM.WebsocketTest.runtimeconfig.dev.json
+D:\IDCM\backend\idcm-backend-3.0.2\IDCM.ApiTest\IDCM.WebsocketConsle\bin\Debug\netcoreapp2.0\IDCM.WebsocketTest.dll
+D:\IDCM\backend\idcm-backend-3.0.2\IDCM.ApiTest\IDCM.WebsocketConsle\bin\Debug\netcoreapp2.0\IDCM.WebsocketTest.pdb
+D:\IDCM\backend\idcm-backend-3.0.2\IDCM.ApiTest\IDCM.WebsocketConsle\obj\Debug\netcoreapp2.0\IDCM.WebsocketTest.csproj.CoreCompileInputs.cache
+D:\IDCM\backend\idcm-backend-3.0.2\IDCM.ApiTest\IDCM.WebsocketConsle\obj\Debug\netcoreapp2.0\IDCM.WebsocketTest.AssemblyInfoInputs.cache
+D:\IDCM\backend\idcm-backend-3.0.2\IDCM.ApiTest\IDCM.WebsocketConsle\obj\Debug\netcoreapp2.0\IDCM.WebsocketTest.AssemblyInfo.cs
+D:\IDCM\backend\idcm-backend-3.0.2\IDCM.ApiTest\IDCM.WebsocketConsle\obj\Debug\netcoreapp2.0\IDCM.WebsocketTest.dll
+D:\IDCM\backend\idcm-backend-3.0.2\IDCM.ApiTest\IDCM.WebsocketConsle\obj\Debug\netcoreapp2.0\IDCM.WebsocketTest.pdb
