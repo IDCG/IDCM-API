@@ -2,9 +2,10 @@ D:\IDCM\backend\idcm-backend-3.0.2\IDCM.ApiTest\IDCM.ApiTest\bin\Debug\netcoreap
 D:\IDCM\backend\idcm-backend-3.0.2\IDCM.ApiTest\IDCM.ApiTest\bin\Debug\netcoreapp2.0\IDCM.ApiTest.runtimeconfig.json
 D:\IDCM\backend\idcm-backend-3.0.2\IDCM.ApiTest\IDCM.ApiTest\bin\Debug\netcoreapp2.0\IDCM.ApiTest.runtimeconfig.dev.json
 D:\IDCM\backend\idcm-backend-3.0.2\IDCM.ApiTest\IDCM.ApiTest\bin\Debug\netcoreapp2.0\IDCM.ApiTest.dll
+D:\IDCM\backend\idcm-backend-3.0.2\IDCM.ApiTest\IDCM.ApiTest\bin\Debug\netcoreapp2.0\IDCM.ApiTest.pdb
+D:\IDCM\backend\idcm-backend-3.0.2\IDCM.ApiTest\IDCM.ApiTest\obj\Debug\netcoreapp2.0\IDCM.ApiTest.csprojAssemblyReference.cache
 D:\IDCM\backend\idcm-backend-3.0.2\IDCM.ApiTest\IDCM.ApiTest\obj\Debug\netcoreapp2.0\IDCM.ApiTest.csproj.CoreCompileInputs.cache
 D:\IDCM\backend\idcm-backend-3.0.2\IDCM.ApiTest\IDCM.ApiTest\obj\Debug\netcoreapp2.0\IDCM.ApiTest.AssemblyInfoInputs.cache
 D:\IDCM\backend\idcm-backend-3.0.2\IDCM.ApiTest\IDCM.ApiTest\obj\Debug\netcoreapp2.0\IDCM.ApiTest.AssemblyInfo.cs
-D:\IDCM\backend\idcm-backend-3.0.2\IDCM.ApiTest\IDCM.ApiTest\bin\Debug\netcoreapp2.0\IDCM.ApiTest.pdb
 D:\IDCM\backend\idcm-backend-3.0.2\IDCM.ApiTest\IDCM.ApiTest\obj\Debug\netcoreapp2.0\IDCM.ApiTest.dll
 D:\IDCM\backend\idcm-backend-3.0.2\IDCM.ApiTest\IDCM.ApiTest\obj\Debug\netcoreapp2.0\IDCM.ApiTest.pdb
